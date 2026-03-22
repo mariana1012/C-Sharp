@@ -1,4 +1,0 @@
-C:\Users\maria\OneDrive\C#\Iniciando\OperadoresLogicos\OperadoresLogicos\obj\Debug\net10.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\maria\OneDrive\C#\Iniciando\OperadoresLogicos\OperadoresLogicos\obj\Debug\net10.0\OperadoresLogicos.AssemblyInfoInputs.cache
-C:\Users\maria\OneDrive\C#\Iniciando\OperadoresLogicos\OperadoresLogicos\obj\Debug\net10.0\OperadoresLogicos.AssemblyInfo.cs
-C:\Users\maria\OneDrive\C#\Iniciando\OperadoresLogicos\OperadoresLogicos\obj\Debug\net10.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
